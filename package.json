@@ -1,0 +1,14 @@
+{
+  "name": "jsexcel2csv",
+  "version": "1.0.0",
+  "description": "convert excel file to csv file on JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
